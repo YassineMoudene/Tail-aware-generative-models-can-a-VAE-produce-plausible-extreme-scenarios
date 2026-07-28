@@ -52,7 +52,7 @@ normalizing flows by Jaini et al., ICML 2020; the same mechanism constrains VAE
 decoders). The corrective is therefore structural too: EVT specifies the exact
 asymptotic form of the tail, and the spliced hybrid restores the tail index, the
 extreme exceedance probabilities, and the ability to generate
-worse-than-observed — yet still plausible — events.
+worse-than-observed, yet still plausible, events.
 
 ## Why this matters beyond the toy
 
@@ -91,5 +91,5 @@ halves of the problem: *inferring* tail behaviour from scarce observations, and
 
 ## References
 
-Coles (2001), *An Introduction to Statistical Modeling of Extreme Values*;
+Coles (2001), *An Introduction to Statistical Modeling of Extreme Values*
 Jaini et al. (2020), *Tails of Lipschitz Triangular Flows*, ICML.
